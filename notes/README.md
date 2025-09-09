@@ -11,6 +11,6 @@
 ## 1. Genereal Principles
 
 1. Adhere to the stye of the original
-    - [ ] Follow the style of the original code. 
+    - [X] Follow the style of the original code. 
     - Never re-write old software to match the style of the new one.
     - 
